@@ -1,3 +1,6 @@
+This is a clone of an older version of the project as I do not have access to the updated one, it does not work currently
+
+
 ## Development setup with Docker
 This project ships with a `docker-compose.yml` that runs both the backend (FastAPI) and the frontend (React).
 
